@@ -9,4 +9,4 @@ For my personal use: three-letter codification of channels about the Rust progra
 - ``lll`` Low Level Learning (YT, some Rust content)
 - ``nbp`` No Boilerplate
 - ``ral`` ["Rust Atomics and Locks"](https://marabos.nl/atomics/) by Mara Bos
-- ``trb`` The Rust Book [("The Rust Programming Language")](https://rust-book.cs.brown.edu/) (Brown University version)
+- ``trb`` The Rust Book (["The Rust Programming Language")](https://rust-book.cs.brown.edu/), Brown University version)
